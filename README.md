@@ -15,7 +15,7 @@ Contem exercicios resolvidos pela dupla sobre programação dinamica
 
 ## Screenshots
 ![image](https://user-images.githubusercontent.com/62102447/217024729-f867a75b-ce19-4c2b-8565-109f8f78c8fb.png)
-https://leetcode.com/problems/regular-expression-matching/description/
+https://leetcode.com/problems/coin-change/
 
 ![image](https://user-images.githubusercontent.com/62102447/217026583-0e59a7fc-ad98-4fb1-b8c1-1cd81a47bce2.png)
 https://leetcode.com/problems/maximum-product-subarray/description/
