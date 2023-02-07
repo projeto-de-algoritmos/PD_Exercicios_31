@@ -1,45 +1,29 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
+#PD_exercicios_31
 
-Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
 
-# NomedoProjeto
-
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Número da Lista**: 31<br>
+**Conteúdo da Disciplina**: Programação Dinamica <br>
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 19/0090901  | Laura Pinos |
+| 19/0093331 |  Matheus Costa |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+Contem exercicios resolvidos pela dupla sobre programação dinamica
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+![image](https://user-images.githubusercontent.com/62102447/217024729-f867a75b-ce19-4c2b-8565-109f8f78c8fb.png)
+https://leetcode.com/problems/regular-expression-matching/description/
 
-## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+![image](https://user-images.githubusercontent.com/62102447/217026583-0e59a7fc-ad98-4fb1-b8c1-1cd81a47bce2.png)
+https://leetcode.com/problems/maximum-product-subarray/description/
 
+![image](https://user-images.githubusercontent.com/62102447/217028801-d122d8b2-e0e8-4ecb-a0e1-2905809445d4.png)
+https://leetcode.com/problems/stone-game/
+
+![image](https://user-images.githubusercontent.com/62102447/217029781-8162f664-4255-4760-9418-02998cd940dd.png)
+https://leetcode.com/problems/delete-and-earn/
 ## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
-
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
-
-
-
-
+Ter uma conta no site leetcode.com para submeter a resposta
